@@ -1,4 +1,4 @@
-class Console {
+export class Console {
     static messages: Array<string> = [];
 
     static log(message: string) {
